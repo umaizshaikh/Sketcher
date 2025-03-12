@@ -1,0 +1,57 @@
+# Ignore .git folder (just in case)
+.git/
+
+# Ignore Visual Studio-related files
+.vs/
+*.suo
+*.user
+*.vcxproj.user
+*.VC.db
+*.VC.opendb
+
+# Ignore Qt build files
+build*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.moc
+*.qrc
+*.qrc.depends
+*.qrc.p*
+*.ui~
+*.obj
+*.o
+*.lo
+*.la
+*.al
+*.libs
+*.a
+*.so
+*.so.*
+*.dylib
+*.dll
+*.lib
+*.exp
+*.pdb
+*.idb
+*.exe
+*.app
+*.out
+
+# Ignore Qt user session/workspace files
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+*.pro~
+*.qbs.user
+*.qmlc
+*.qmltypes
+
+# Ignore temporary and generated files
+*.log
+*.tmp
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
