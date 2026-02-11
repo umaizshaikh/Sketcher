@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="282.222mm" height="195.086mm"
+ viewBox="0 0 800 553"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" baseProfile="tiny">
+<title>Qt SVG Document</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<polyline fill="none" vector-effect="none" points="169,152 501,356 " />
+<polyline fill="none" vector-effect="none" points="514,148 268,400 " />
+<polyline fill="none" vector-effect="none" points="386,108 419,364 " />
+</g>
+</svg>
